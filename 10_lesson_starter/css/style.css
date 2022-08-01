@@ -7,13 +7,29 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 1rem;
-    border-left: 1px solid #333;
-    border-right: 1px solid #333;
+    border-left: 1px solid rgb(228, 220, 220);
+    border-right: 1px solid rgb(243, 233, 233);
 }
 
 th, td, caption {
-    border: 1px solid #333;
+    border: 1px solid rgb(243, 221, 221);
     font-family: 'Courier New', Courier, monospace;
     border-collapse: separate;
     padding: 0.5rem;
 }
+
+i {
+    font-size: medium; 
+    color: rgb(243, 146, 146);
+ }
+ body {
+
+     background-color: rgb(239, 154, 154);
+     color: whitesmoke;
+     
+ }
+
+ em {
+     color:yellow;
+ }
+ 
